@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kim30707.github.io/gijang-rental/sitemap.xml
