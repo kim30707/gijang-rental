@@ -19,6 +19,7 @@
 - [제로 100 슬림 얼음 정수기 CP-AHS100HEW(S)](https://kim30707.github.io/gijang-rental/products/zero100/)
 - [인스퓨어 미니100 초소형 정수기 CP-AMS100EWH(S)](https://kim30707.github.io/gijang-rental/products/mini100/)
 - [인스퓨어 헤리티지 공기청정기 AC-28AH10GNW(S)](https://kim30707.github.io/gijang-rental/products/heritage/)
+- [온라인 상담 신청](https://kim30707.github.io/gijang-rental/inquiry/): 연락처와 관심 제품을 남기면 담당자가 연락
 - [홈페이지·프로그램 제작 안내](https://kim30707.github.io/gijang-rental/web-app/)
 
 ## 자주 묻는 질문
